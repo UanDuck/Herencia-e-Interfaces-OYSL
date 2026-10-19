@@ -1,0 +1,9 @@
+com\mycompany\ejemplointerfaz\PrimaryController.class
+module-info.class
+com\mycompany\ejemplointerfaz\Persona.class
+com\mycompany\ejemplointerfaz\ControlRemoto.class
+com\mycompany\ejemplointerfaz\Aparato.class
+com\mycompany\ejemplointerfaz\App.class
+com\mycompany\ejemplointerfaz\Consola.class
+com\mycompany\ejemplointerfaz\Persona$1.class
+com\mycompany\ejemplointerfaz\Television.class
